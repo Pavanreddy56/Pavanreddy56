@@ -10,7 +10,7 @@
 - 💬 Ask me about **AWS, Docker, Jenkins, GitHub Actions, EC2, RDS**
 ---  
 </p>
-- 📫 How to reach me **cpreddy.devops@gmail.com**
+### 📫 How to reach me **cpreddy.devops@gmail.com**
 
 ---
 
